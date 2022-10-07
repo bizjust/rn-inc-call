@@ -3,7 +3,7 @@ const isAndroid = Platform.OS === 'android';
 const RNNotificationIncomingCall = NativeModules.FullScreenNotificationIncomingCall;
 let eventEmitter: any
 if (isAndroid) {
-  eventEmitter = new NativeEventEmitter(RNNotificationIncomingCall);
+  eventEmitter = new NativeEventEmitter();//RNNotificationIncomingCall
 }
 enum RNNotificationEvent {
   RNNotificationAnswerAction = 'RNNotificationAnswerAction',

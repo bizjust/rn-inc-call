@@ -1,6 +1,6 @@
 {
   "name": "rn-inc-call",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Android full screen notification incoming call for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
