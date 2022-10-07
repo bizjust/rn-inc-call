@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-full-screen-notification-incoming-call": ["./src/index"]
+      "rn-inc-call": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

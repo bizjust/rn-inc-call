@@ -1,6 +1,6 @@
 {
-  "name": "react-native-full-screen-notification-incoming-call-example",
-  "description": "Example app for react-native-full-screen-notification-incoming-call",
+  "name": "rn-inc-call-example",
+  "description": "Example app for rn-inc-call",
   "version": "0.0.1",
   "private": true,
   "scripts": {
